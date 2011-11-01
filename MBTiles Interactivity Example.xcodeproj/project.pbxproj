@@ -201,6 +201,7 @@
 		DD5B06E114045103000287EB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = "Development Seed";
 			};
 			buildConfigurationList = DD5B06E414045103000287EB /* Build configuration list for PBXProject "MBTiles Interactivity Example" */;
@@ -361,6 +362,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MBTiles Interactivity Example/MBTiles Interactivity Example-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = "route-me/MapView/**";
 				INFOPLIST_FILE = "MBTiles Interactivity Example/MBTiles Interactivity Example-Info.plist";
 				OTHER_LDFLAGS = "-ObjC";
@@ -374,6 +376,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MBTiles Interactivity Example/MBTiles Interactivity Example-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = "route-me/MapView/**";
 				INFOPLIST_FILE = "MBTiles Interactivity Example/MBTiles Interactivity Example-Info.plist";
 				OTHER_LDFLAGS = "-ObjC";
